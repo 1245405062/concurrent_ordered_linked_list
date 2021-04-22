@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6ddbdfb-cf29-4f3f-80bc-8fe545166f05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/READEME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist/concurrent_linked_list.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist/concurrent_linked_list_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist/linkedlist.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rTfcdQFA39nDlR4sDOcaFOBDoZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestInsert in github.com/1245405062/concurrent_ordered_linked_list">
+    <configuration name="go build github.com/1245405062/concurrent_ordered_linked_list" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="concurrent_ordered_linked_list" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/1245405062/concurrent_ordered_linked_list" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsert in github.com/1245405062/concurrent_ordered_linked_list" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrent_ordered_linked_list" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/1245405062/concurrent_ordered_linked_list" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestInsert\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsert in github.com/1245405062/concurrent_ordered_linked_list/linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrent_ordered_linked_list" />
+      <working_directory value="$PROJECT_DIR$/linkedlist" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/1245405062/concurrent_ordered_linked_list/linkedlist" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestInsert\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestInsert in github.com/1245405062/concurrent_ordered_linked_list" />
+        <item itemvalue="Go Test.TestInsert in github.com/1245405062/concurrent_ordered_linked_list/linkedlist" />
+        <item itemvalue="Go Build.go build github.com/1245405062/concurrent_ordered_linked_list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1730" height="292" key="GridCell.Tab.0.bottom" timestamp="1619083608956">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1730" height="292" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083608956" />
+    <state width="1730" height="292" key="GridCell.Tab.0.center" timestamp="1619083608948">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1730" height="292" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083608948" />
+    <state width="1730" height="292" key="GridCell.Tab.0.left" timestamp="1619083608946">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1730" height="292" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083608946" />
+    <state width="1730" height="292" key="GridCell.Tab.0.right" timestamp="1619083608953">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1730" height="292" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083608953" />
+    <state x="204" y="4" key="SettingsEditor" timestamp="1619083619976">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="204" y="4" key="SettingsEditor/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083619976" />
+    <state x="2011" y="4" key="SettingsEditor/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619012844670" />
+    <state width="750" height="600" key="SwitcherDM" timestamp="1619083536017">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="750" height="600" key="SwitcherDM/0.0.1792.1120@0.0.1792.1120" timestamp="1619005418334" />
+    <state width="750" height="600" key="SwitcherDM/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083536017" />
+    <state x="393" y="0" width="1006" height="1467" key="search.everywhere.popup" timestamp="1619082889183">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="393" y="0" width="1005" height="1466" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1619009682173" />
+    <state x="393" y="0" width="1006" height="1467" key="search.everywhere.popup/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619082889183" />
+    <state x="2213" y="0" width="1077" height="1414" key="search.everywhere.popup/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619082217406" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
