@@ -11,11 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6ddbdfb-cf29-4f3f-80bc-8fe545166f05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/READEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/concurrent_linked_list.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/concurrent_linked_list_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/linkedlist.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/READEME.md" beforeDir="false" afterPath="$PROJECT_DIR$/READEME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent_linked_list.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_linked_list.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent_linked_list_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_linked_list_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +47,16 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
-  <component name="RunManager" selected="Go Test.TestInsert in github.com/1245405062/concurrent_ordered_linked_list">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/clist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestIntSet in github.com/1245405062/concurrent_ordered_linked_list/clist">
     <configuration name="go build github.com/1245405062/concurrent_ordered_linked_list" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="concurrent_ordered_linked_list" />
       <working_directory value="$PROJECT_DIR$" />
@@ -80,8 +88,20 @@
       <pattern value="^\QTestInsert\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestIntSet in github.com/1245405062/concurrent_ordered_linked_list/clist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrent_ordered_linked_list" />
+      <working_directory value="$PROJECT_DIR$/clist" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/1245405062/concurrent_ordered_linked_list/clist" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestIntSet\E$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestIntSet in github.com/1245405062/concurrent_ordered_linked_list/clist" />
         <item itemvalue="Go Test.TestInsert in github.com/1245405062/concurrent_ordered_linked_list" />
         <item itemvalue="Go Test.TestInsert in github.com/1245405062/concurrent_ordered_linked_list/linkedlist" />
         <item itemvalue="Go Build.go build github.com/1245405062/concurrent_ordered_linked_list" />
@@ -104,46 +124,88 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1730" height="292" key="GridCell.Tab.0.bottom" timestamp="1619083608956">
+    <state width="1730" height="466" key="GridCell.Tab.0.bottom" timestamp="1619244423057">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1730" height="292" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083608956" />
-    <state width="1730" height="292" key="GridCell.Tab.0.center" timestamp="1619083608948">
+    <state width="1730" height="466" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1619244423057" />
+    <state width="1730" height="348" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083842563" />
+    <state width="1858" height="9" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619102556635" />
+    <state width="1730" height="466" key="GridCell.Tab.0.center" timestamp="1619244423051">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1730" height="292" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083608948" />
-    <state width="1730" height="292" key="GridCell.Tab.0.left" timestamp="1619083608946">
+    <state width="1730" height="466" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1619244423051" />
+    <state width="1730" height="348" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083842558" />
+    <state width="1858" height="9" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619102556630" />
+    <state width="1730" height="466" key="GridCell.Tab.0.left" timestamp="1619244423048">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1730" height="292" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083608946" />
-    <state width="1730" height="292" key="GridCell.Tab.0.right" timestamp="1619083608953">
+    <state width="1730" height="466" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1619244423048" />
+    <state width="1730" height="348" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083842556" />
+    <state width="1858" height="9" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619102556628" />
+    <state width="1730" height="466" key="GridCell.Tab.0.right" timestamp="1619244423054">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1730" height="292" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083608953" />
+    <state width="1730" height="466" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1619244423054" />
+    <state width="1730" height="348" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083842560" />
+    <state width="1858" height="9" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619102556633" />
+    <state width="1730" height="466" key="GridCell.Tab.1.bottom" timestamp="1619244423067">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1730" height="466" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1619244423067" />
+    <state width="1730" height="110" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083831309" />
+    <state width="1858" height="9" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619102556922" />
+    <state width="1730" height="466" key="GridCell.Tab.1.center" timestamp="1619244423062">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1730" height="466" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1619244423062" />
+    <state width="1730" height="110" key="GridCell.Tab.1.center/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083831305" />
+    <state width="1858" height="9" key="GridCell.Tab.1.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619102556917" />
+    <state width="1730" height="466" key="GridCell.Tab.1.left" timestamp="1619244423059">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1730" height="466" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1619244423059" />
+    <state width="1730" height="110" key="GridCell.Tab.1.left/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083831302" />
+    <state width="1858" height="9" key="GridCell.Tab.1.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619102556914" />
+    <state width="1730" height="466" key="GridCell.Tab.1.right" timestamp="1619244423065">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1730" height="466" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1619244423065" />
+    <state width="1730" height="110" key="GridCell.Tab.1.right/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083831307" />
+    <state width="1858" height="9" key="GridCell.Tab.1.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619102556919" />
     <state x="204" y="4" key="SettingsEditor" timestamp="1619083619976">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="204" y="4" key="SettingsEditor/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083619976" />
     <state x="2011" y="4" key="SettingsEditor/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619012844670" />
-    <state width="750" height="600" key="SwitcherDM" timestamp="1619083536017">
+    <state width="750" height="600" key="SwitcherDM" timestamp="1619244388743">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="750" height="600" key="SwitcherDM/0.0.1792.1120@0.0.1792.1120" timestamp="1619005418334" />
-    <state width="750" height="600" key="SwitcherDM/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083536017" />
-    <state x="393" y="0" width="1006" height="1467" key="search.everywhere.popup" timestamp="1619082889183">
+    <state width="750" height="600" key="SwitcherDM/0.0.1792.1120@0.0.1792.1120" timestamp="1619244388743" />
+    <state width="750" height="600" key="SwitcherDM/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619084890433" />
+    <state width="804" height="600" key="SwitcherDM/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619154151336" />
+    <state x="473" y="200" width="845" height="720" key="find.popup" timestamp="1619083658495">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="393" y="0" width="1005" height="1466" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1619009682173" />
+    <state x="473" y="200" width="845" height="720" key="find.popup/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619083658495" />
+    <state x="393" y="0" width="1005" height="1466" key="search.everywhere.popup" timestamp="1619238119316">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="393" y="0" width="1005" height="1466" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1619238119316" />
     <state x="393" y="0" width="1006" height="1467" key="search.everywhere.popup/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1619082889183" />
-    <state x="2213" y="0" width="1077" height="1414" key="search.everywhere.popup/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619082217406" />
+    <state x="2213" y="0" width="1077" height="1414" key="search.everywhere.popup/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1619153732750" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/main.go</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/concurrent_linked_list_test.go</url>
+          <line>242</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/concurrent_linked_list_test.go</url>
+          <line>76</line>
+          <option name="timeStamp" value="96" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
